@@ -16,7 +16,7 @@ import { RiFlowChart } from "react-icons/ri";
 import { MdDesignServices } from "react-icons/md";
 
 import aboutImg from "../assets/about.jpg";
-import profileImg from "../assets/profile.jpg";
+import passportImg from "../assets/passport.JPG";
 import projectImg1 from "../assets/project1.png";
 import projectImg2 from "../assets/project2.webp";
 import projectImg3 from "../assets/project3.avif";
@@ -25,7 +25,7 @@ import projectImg5 from "../assets/project5.jpg";
 import projectImg6 from "../assets/project6.avif";
 
 export const assets = {
-  profileImg,
+  passportImg,
   aboutImg,
 };
 
